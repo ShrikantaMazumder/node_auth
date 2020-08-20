@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f638a747-ae00-4818-8467-25f9b985ca40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1gBUhvhyQzhEoLnaNFUH9qfrocw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.28" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="AtomConfig" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f638a747-ae00-4818-8467-25f9b985ca40" name="Default Changelist" comment="" />
+      <created>1597587601870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597587601870</updated>
+      <workItem from="1597587602963" duration="875000" />
+      <workItem from="1597604047400" duration="293000" />
+      <workItem from="1597604362608" duration="1009000" />
+      <workItem from="1597636212532" duration="3440000" />
+      <workItem from="1597660728215" duration="659000" />
+      <workItem from="1597670107164" duration="1492000" />
+      <workItem from="1597778730747" duration="48000" />
+      <workItem from="1597778802460" duration="29000" />
+      <workItem from="1597846959471" duration="1193000" />
+      <workItem from="1597851065291" duration="2117000" />
+      <workItem from="1597853842677" duration="233000" />
+      <workItem from="1597854088517" duration="1650000" />
+      <workItem from="1597855761100" duration="346000" />
+      <workItem from="1597864435580" duration="3711000" />
+      <workItem from="1597897841625" duration="2123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="142" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597638947699">
+      <screen x="60" y="27" width="1306" height="741" />
+    </state>
+    <state x="435" y="142" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/60.27.1306.741@60.27.1306.741" timestamp="1597638947699" />
+    <state x="176" y="27" width="1037" height="737" key="SettingsEditor" timestamp="1597854915884">
+      <screen x="60" y="27" width="1306" height="741" />
+    </state>
+    <state x="176" y="27" width="1037" height="737" key="SettingsEditor/60.27.1306.741@60.27.1306.741" timestamp="1597854915884" />
+  </component>
+</project>
