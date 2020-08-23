@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f638a747-ae00-4818-8467-25f9b985ca40" name="Default Changelist" comment="" />
+    <list default="true" id="f638a747-ae00-4818-8467-25f9b985ca40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/appController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/appController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +20,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1gBUhvhyQzhEoLnaNFUH9qfrocw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +47,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="AtomConfig" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +71,11 @@
       <workItem from="1597854088517" duration="1650000" />
       <workItem from="1597855761100" duration="346000" />
       <workItem from="1597864435580" duration="3711000" />
-      <workItem from="1597897841625" duration="2474000" />
+      <workItem from="1597897841625" duration="2593000" />
+      <workItem from="1597962994733" duration="134000" />
+      <workItem from="1597963498740" duration="410000" />
+      <workItem from="1598107072912" duration="955000" />
+      <workItem from="1598151056812" duration="2185000" />
     </task>
     <servers />
   </component>
@@ -71,9 +87,13 @@
       <screen x="60" y="27" width="1306" height="741" />
     </state>
     <state x="435" y="142" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/60.27.1306.741@60.27.1306.741" timestamp="1597638947699" />
-    <state x="176" y="27" width="1037" height="737" key="SettingsEditor" timestamp="1597854915884">
+    <state x="176" y="27" width="1037" height="737" key="SettingsEditor" timestamp="1597963908262">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state x="176" y="27" width="1037" height="737" key="SettingsEditor/60.27.1306.741@60.27.1306.741" timestamp="1597854915884" />
+    <state x="176" y="27" width="1037" height="737" key="SettingsEditor/60.27.1306.741@60.27.1306.741" timestamp="1597963908262" />
+    <state x="365" y="89" key="search.everywhere.popup" timestamp="1597963007321">
+      <screen x="60" y="27" width="1306" height="741" />
+    </state>
+    <state x="365" y="89" key="search.everywhere.popup/60.27.1306.741@60.27.1306.741" timestamp="1597963007321" />
   </component>
 </project>

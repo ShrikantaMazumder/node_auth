@@ -1,5 +1,5 @@
 module.exports.head = (req, res, next) => {
-    if (!req.body.name) return res.json({ Error: "Username is required." });
+    // if (!req.body.name) return res.json({ Error: "Username is required." });
     console.log(req.headers);
     next();
 }
